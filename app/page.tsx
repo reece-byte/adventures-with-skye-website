@@ -322,11 +322,11 @@ export default function Home() {
             </div>
             <div className="gallery-item reveal">
               <img src="/photo-melissa.jpeg" alt="Melissa Reeves with a scruffy wet dog on Dartmoor" />
-              <div className="gallery-caption">On the moor with a new friend</div>
+              <div className="gallery-caption">Water break</div>
             </div>
             <div className="gallery-item reveal">
               <img src="/photo-bowl.jpeg" alt="A black curly-coated dog drinking from a metal water bowl in the grass" />
-              <div className="gallery-caption">Water break</div>
+              <div className="gallery-caption">On the moor with a new friend</div>
             </div>
             <div className="gallery-item reveal">
               <img src="/photo-river.jpeg" alt="Two spaniels in long grass, looking pleased with themselves" />

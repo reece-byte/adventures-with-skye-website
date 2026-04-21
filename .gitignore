@@ -1,2 +1,17 @@
 *.zip
 .DS_Store
+
+# Next.js
+/.next/
+/out/
+/build/
+
+# Node
+/node_modules/
+
+# Misc
+*.log
+.env*.local
+.vercel
+*.tsbuildinfo
+next-env.d.ts

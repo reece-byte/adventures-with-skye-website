@@ -399,6 +399,7 @@ export default function Home() {
               <p className="pitch">Carefully matched dogs for safe, fun social adventures on the moor.</p>
               <div className="price-tier-list">
                 <div className="price-tier"><span className="tier-duration">60 minutes</span><span className="tier-cost"><em>£</em>15</span></div>
+                <div className="price-tier"><span className="tier-duration">90 minutes</span><span className="tier-cost"><em>£</em>25</span></div>
               </div>
             </div>
 
@@ -408,7 +409,7 @@ export default function Home() {
               <p className="pitch">Ideal for nervous, reactive or recall-training dogs. Fully enclosed private field.</p>
               <div className="price-tier-list">
                 <div className="price-tier"><span className="tier-duration">30 minutes</span><span className="tier-cost"><em>£</em>15</span></div>
-                <div className="price-tier"><span className="tier-duration">60 minutes (private session)</span><span className="tier-cost"><em>£</em>25</span></div>
+                <div className="price-tier"><span className="tier-duration">60 minutes</span><span className="tier-cost"><em>£</em>25</span></div>
               </div>
             </div>
 

@@ -132,7 +132,7 @@ export default function Home() {
               </svg>
               Facebook
             </a>
-            <a href="https://www.instagram.com/adventureswithskye/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/adventureswithskye.co.uk/" target="_blank" rel="noopener noreferrer">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <rect x="2" y="2" width="20" height="20" rx="5" />
                 <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
@@ -552,7 +552,7 @@ export default function Home() {
               </svg>
               <span>Facebook</span>
             </a>
-            <a href="https://www.instagram.com/adventureswithskye/" target="_blank" rel="noopener noreferrer" className="social-btn instagram-btn" aria-label="Instagram">
+            <a href="https://www.instagram.com/adventureswithskye.co.uk/" target="_blank" rel="noopener noreferrer" className="social-btn instagram-btn" aria-label="Instagram">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <rect x="2" y="2" width="20" height="20" rx="5" />
                 <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
@@ -635,7 +635,7 @@ export default function Home() {
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/adventureswithskye/" target="_blank" rel="noopener noreferrer" className="contact-row">
+                <a href="https://www.instagram.com/adventureswithskye.co.uk/" target="_blank" rel="noopener noreferrer" className="contact-row">
                   <span className="contact-icon instagram">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                       <rect x="2" y="2" width="20" height="20" rx="5" />
@@ -643,7 +643,7 @@ export default function Home() {
                       <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
                     </svg>
                   </span>
-                  <span className="contact-label">Instagram<small>@adventureswithskye</small></span>
+                  <span className="contact-label">Instagram<small>@adventureswithskye.co.uk</small></span>
                 </a>
               </li>
               <li>

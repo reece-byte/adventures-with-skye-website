@@ -27,29 +27,6 @@ export default function TermsPage() {
         </Link>
       </nav>
 
-      <div className="placeholder-warning">
-        <div className="placeholder-warning-inner">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-            <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" />
-            <line x1="12" y1="9" x2="12" y2="13" />
-            <line x1="12" y1="17" x2="12.01" y2="17" />
-          </svg>
-          <div>
-            <h2>Placeholder content — replace before going live</h2>
-            <p>
-              <strong>Mel — this is a starting draft, not legal advice.</strong> The wording below is
-              generic and based on common practice for UK dog walkers. Before publishing the site, you should:
-            </p>
-            <p>
-              (1) replace these terms with your own — either write them yourself, get them reviewed by a solicitor,
-              or use a template from PACT / Pet Industry Federation / Simply Business; (2) check the wording
-              doesn't conflict with your insurance policy; (3) when you're happy with the final version, delete
-              this warning banner from the top of this page.
-            </p>
-          </div>
-        </div>
-      </div>
-
       <main>
         <div className="page-header">
           <span className="mono">The legal bit</span>

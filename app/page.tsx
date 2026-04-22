@@ -132,6 +132,14 @@ export default function Home() {
               </svg>
               Facebook
             </a>
+            <a href="https://www.instagram.com/adventureswithskye/" target="_blank" rel="noopener noreferrer">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <rect x="2" y="2" width="20" height="20" rx="5" />
+                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
+                <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
+              </svg>
+              Instagram
+            </a>
           </div>
         </div>
       </div>
@@ -544,6 +552,14 @@ export default function Home() {
               </svg>
               <span>Facebook</span>
             </a>
+            <a href="https://www.instagram.com/adventureswithskye/" target="_blank" rel="noopener noreferrer" className="social-btn instagram-btn" aria-label="Instagram">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <rect x="2" y="2" width="20" height="20" rx="5" />
+                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
+                <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
+              </svg>
+              <span>Instagram</span>
+            </a>
             <a href="mailto:hello@adventureswithskye.co.uk" className="social-btn email-btn" aria-label="Email">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <rect x="2" y="4" width="20" height="16" rx="2" />
@@ -553,7 +569,7 @@ export default function Home() {
             </a>
           </div>
 
-          <div className="cta-note">Call · text · WhatsApp · email — whichever suits you</div>
+          <div className="cta-note">Call · text · WhatsApp · Instagram · email — whichever suits you</div>
         </div>
       </section>
 
@@ -616,6 +632,18 @@ export default function Home() {
                     </svg>
                   </span>
                   <span className="contact-label">Facebook<small>@adventureswithskye</small></span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/adventureswithskye/" target="_blank" rel="noopener noreferrer" className="contact-row">
+                  <span className="contact-icon instagram">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                      <rect x="2" y="2" width="20" height="20" rx="5" />
+                      <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
+                      <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
+                    </svg>
+                  </span>
+                  <span className="contact-label">Instagram<small>@adventureswithskye</small></span>
                 </a>
               </li>
               <li>

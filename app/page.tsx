@@ -276,6 +276,10 @@ export default function Home() {
               service, built on excellent communication, genuine care, and a deep understanding that
               every dog is unique and cherished.
             </p>
+            <p>
+              I have access to a secure private field available for walks, including solo walks for
+              nervous or reactive dogs. Please get in touch to discuss your dog's needs.
+            </p>
 
             <h3 className="about-subhead">Meet <em>Skye.</em></h3>
             <p>
@@ -416,7 +420,7 @@ export default function Home() {
             <div className="price-card reveal">
               <span className="mono">04 · Drop-in visits</span>
               <h3>A <em>quick</em> check-in</h3>
-              <p className="pitch">From a comfort break to a short stroll — a friendly face mid-day.</p>
+              <p className="pitch">From a comfort break to a short stroll — a friendly face anytime of day.</p>
               <div className="price-tier-list">
                 <div className="price-tier"><span className="tier-duration">30 minutes</span><span className="tier-cost"><em>£</em>10</span></div>
               </div>
@@ -516,7 +520,7 @@ export default function Home() {
               <div className="step-num">03</div>
               <h3>Regular rhythm</h3>
               <p>Book weekly, fortnightly, or ad-hoc. Change it any time. I'll send a little update and a photo or two after every adventure.</p>
-              <div className="step-tag">Flexible · no contracts</div>
+              <div className="step-tag">Flexible · no subscription</div>
             </div>
           </div>
         </div>

@@ -420,7 +420,7 @@ export default function Home() {
             <div className="price-card reveal">
               <span className="mono">04 · Drop-in visits</span>
               <h3>A <em>quick</em> check-in</h3>
-              <p className="pitch">From a comfort break to a short stroll — a friendly face anytime of day.</p>
+              <p className="pitch">From a comfort break to a short stroll — a friendly face any time of day.</p>
               <div className="price-tier-list">
                 <div className="price-tier"><span className="tier-duration">30 minutes</span><span className="tier-cost"><em>£</em>10</span></div>
               </div>
